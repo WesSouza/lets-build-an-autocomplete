@@ -1,7 +1,7 @@
 {
   "name": "lets-build-an-autocomplete",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.5",
     "downshift": "^1.16.3",
